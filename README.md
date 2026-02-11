@@ -193,3 +193,4 @@ Las contribuciones son bienvenidas. Por favor, abre un issue o pull request para
 ## Autor
 
 Desarrollado con ❤️ usando Kotlin y Jetpack Compose
+
