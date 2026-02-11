@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Notification Restorer</string>
+    <string name="permission_required">Permiso requerido</string>
+    <string name="permission_message">Esta app necesita acceso a las notificaciones para poder guardarlas y restaurarlas.</string>
+    <string name="grant_permission">Conceder permiso</string>
+    <string name="active_notifications">Activas</string>
+    <string name="dismissed_notifications">Cerradas</string>
+    <string name="no_active_notifications">No hay notificaciones activas</string>
+    <string name="no_dismissed_notifications">No hay notificaciones cerradas</string>
+    <string name="restore">Restaurar</string>
+    <string name="delete">Eliminar</string>
+    <string name="clear_all">Limpiar todas</string>
+    <string name="search">Buscar</string>
+    <string name="sort">Ordenar</string>
+    <string name="sort_by_time_desc">Más reciente</string>
+    <string name="sort_by_time_asc">Más antiguo</string>
+    <string name="sort_by_app">Por app</string>
+</resources>
